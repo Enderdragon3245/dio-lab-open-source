@@ -78,6 +78,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
     
 ## Convenção de Commits 
+##Feita e Escrita Por Gustavo.M
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
